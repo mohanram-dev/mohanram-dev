@@ -33,6 +33,15 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
+### 🤝 Open Source Contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ⭐ 18k | [docs(openai): document ChatOpenAI endpoint resolution precedence](https://github.com/langchain-ai/langchainjs/pull/11638) | 🟡 Open |
+| [YawLabs/mcp](https://github.com/YawLabs/mcp) | [fix(cli): remove stale  subcommand from help text and guard against drift](https://github.com/YawLabs/mcp/pull/146) | ✅ Merged |
+
+➡️ [All my pull requests](https://github.com/pulls?q=is%3Apr+author%3Amohanram-dev+-user%3Amohanram-dev) · I mostly contribute around AI agent tooling, MCP and docs — happy to review or pair on issues in that space.
+
 ### 🧠 Interests
 
 AI agents &amp; MCP servers · workflow automation · self-hosting (Coolify, Docker, LiteSpeed) · web performance · technical writing
