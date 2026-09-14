@@ -38,7 +38,7 @@
 | Project | Contribution | Status |
 |---|---|---|
 | [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) ⭐ 18k | [docs(openai): document ChatOpenAI endpoint resolution precedence](https://github.com/langchain-ai/langchainjs/pull/11638) | 🟡 Open |
-| [YawLabs/mcp](https://github.com/YawLabs/mcp) | [fix(cli): remove stale  subcommand from help text and guard against drift](https://github.com/YawLabs/mcp/pull/146) | ✅ Merged |
+| [YawLabs/mcp](https://github.com/YawLabs/mcp) | [fix(cli): remove stale servers subcommand from help text and guard against drift](https://github.com/YawLabs/mcp/pull/146) | ✅ Merged |
 
 ➡️ [All my pull requests](https://github.com/pulls?q=is%3Apr+author%3Amohanram-dev+-user%3Amohanram-dev) · I mostly contribute around AI agent tooling, MCP and docs — happy to review or pair on issues in that space.
 
