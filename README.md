@@ -45,13 +45,6 @@ AI agents &amp; MCP servers · workflow automation · self-hosting (Coolify, Doc
 
 ➡️ [More articles on 9blog.in](https://9blog.in)
 
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanram-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanram-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
 ---
 
 <p align="center">
