@@ -49,6 +49,8 @@ AI agents &amp; MCP servers · workflow automation · self-hosting (Coolify, Doc
 ### ✍️ Latest from 9Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [tokentab: The Open-Source CLI That Shows What Claude Code, Codex and Gemini CLI Really Cost You](https://9blog.in/tokentab-claude-code-cost-cli/)
+- [DeepSeek-V4.1-Flash Explained: 1M Context, 8B Active Params — and Why You Still Can’t Self-Host It](https://9blog.in/deepseek-v4-1-flash-explained/)
 - [Coolify vs Heroku in 2026: Self-Hosted PaaS vs Managed Cloud](https://9blog.in/coolify-vs-heroku/)
 <!-- BLOG-POST-LIST:END -->
 
