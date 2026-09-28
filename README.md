@@ -49,11 +49,11 @@ AI agents &amp; MCP servers · workflow automation · self-hosting (Coolify, Doc
 ### ✍️ Latest from 9Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Ternary Bonsai 2 27B: A 27B Model in 5.9 GB — Specs, Speeds and How to Run It](https://9blog.in/ternary-bonsai-2-27b/)
 - [Claude Code Cost Per Month: Pro vs Max vs API in 2026](https://9blog.in/claude-code-cost-per-month/)
 - [Local LLMs on a Normal PC: Real Speeds From a 16 GB Desktop](https://9blog.in/local-llm-normal-pc/)
 - [Claude Code Tips: 12 Things I Wish I Knew Before Using It Every Day](https://9blog.in/claude-code-tips/)
 - [tokentab: The Open-Source CLI That Shows What Claude Code, Codex and Gemini CLI Really Cost You](https://9blog.in/tokentab-claude-code-cost-cli/)
-- [DeepSeek-V4.1-Flash Explained: 1M Context, 8B Active Params — and Why You Still Can’t Self-Host It](https://9blog.in/deepseek-v4-1-flash-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles on 9blog.in](https://9blog.in)
