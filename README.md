@@ -49,11 +49,11 @@ AI agents &amp; MCP servers · workflow automation · self-hosting (Coolify, Doc
 ### ✍️ Latest from 9Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Cron Syntax Explained: The Five Fields, the Traps, and Where Jobs Actually Run](https://9blog.in/cron-syntax-explained/)
+- [Block AI Crawlers With robots.txt — Without Losing AI Search Traffic](https://9blog.in/block-ai-crawlers-robots-txt/)
+- [Can I Run This LLM? What a PC, an RTX 3060 or a Mac Can Actually Run](https://9blog.in/can-i-run-this-llm/)
+- [MiMo V2.6 Benchmarks and Cost: The Open Model That Undercuts GPT-5.6 by 9x](https://9blog.in/mimo-v2-6-benchmarks-cost/)
 - [Ternary Bonsai 2 27B: A 27B Model in 5.9 GB — Specs, Speeds and How to Run It](https://9blog.in/ternary-bonsai-2-27b/)
-- [Claude Code Cost Per Month: Pro vs Max vs API in 2026](https://9blog.in/claude-code-cost-per-month/)
-- [Local LLMs on a Normal PC: Real Speeds From a 16 GB Desktop](https://9blog.in/local-llm-normal-pc/)
-- [Claude Code Tips: 12 Things I Wish I Knew Before Using It Every Day](https://9blog.in/claude-code-tips/)
-- [tokentab: The Open-Source CLI That Shows What Claude Code, Codex and Gemini CLI Really Cost You](https://9blog.in/tokentab-claude-code-cost-cli/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles on 9blog.in](https://9blog.in)
