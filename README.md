@@ -49,11 +49,11 @@ AI agents &amp; MCP servers · workflow automation · self-hosting (Coolify, Doc
 ### ✍️ Latest from 9Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Ollama vs LM Studio &lpar;2026&rpar;: Speed, RAM Use and Which One to Install First](https://9blog.in/ollama-vs-lm-studio/)
+- [Claude Code Free: 5 Ways That Actually Work in 2026 &lpar;and Their Real Limits&rpar;](https://9blog.in/claude-code-free/)
 - [Claude Code With Ollama: Free Setup, Real Speeds and the 4K Context Trap](https://9blog.in/claude-code-with-ollama/)
 - [Hyperlift vs Heroku &lpar;2026&rpar;: Real Prices per GB, Deploys and Databases](https://9blog.in/hyperlift-vs-heroku/)
 - [Qwen-Image-2.1 VRAM Requirements: How to Run It Locally in ComfyUI](https://9blog.in/qwen-image-2-1-vram-comfyui/)
-- [Qwen3.8 27B: How Much RAM You Need, Real Speeds and How to Run It Locally](https://9blog.in/qwen3-8-27b-run-locally/)
-- [Cron Syntax Explained: The Five Fields, the Traps, and Where Jobs Actually Run](https://9blog.in/cron-syntax-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles on 9blog.in](https://9blog.in)
