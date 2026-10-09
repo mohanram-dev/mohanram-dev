@@ -49,11 +49,11 @@ AI agents &amp; MCP servers · workflow automation · self-hosting (Coolify, Doc
 ### ✍️ Latest from 9Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [LTX-2.5 VRAM Requirements: How to Run It Locally in ComfyUI](https://9blog.in/ltx-2-5-vram-comfyui/)
 - [Open WebUI With Ollama in Docker: Setup and the Fix for “Can’t Connect to Ollama”](https://9blog.in/open-webui-ollama-docker/)
 - [Ollama vs LM Studio &lpar;2026&rpar;: Speed, RAM Use and Which One to Install First](https://9blog.in/ollama-vs-lm-studio/)
 - [Claude Code Free: 5 Ways That Actually Work in 2026 &lpar;and Their Real Limits&rpar;](https://9blog.in/claude-code-free/)
 - [Claude Code With Ollama: Free Setup, Real Speeds and the 4K Context Trap](https://9blog.in/claude-code-with-ollama/)
-- [Hyperlift vs Heroku &lpar;2026&rpar;: Real Prices per GB, Deploys and Databases](https://9blog.in/hyperlift-vs-heroku/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles on 9blog.in](https://9blog.in)
